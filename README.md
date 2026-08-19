@@ -64,6 +64,16 @@ The 2025 analysis used 94 Sentinel-2 scenes.
 The monthly NDVI values showed noticeable fluctuation during 2025,
 indicating seasonal variation in vegetation conditions.
 
+## Visualizations
+
+### Monthly NDVI Time Series
+
+![Monthly NDVI Time Series](images/ndvi_chart.png)
+
+### NDVI Distribution
+
+![NDVI Histogram](images/ndvi_histogram.png)
+
 ## Tools and Technologies
 
 - Google Earth Engine
