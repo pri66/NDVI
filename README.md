@@ -72,7 +72,7 @@ indicating seasonal variation in vegetation conditions.
 
 ### NDVI Distribution
 
-![NDVI Histogram](images/ndvi_histogram.png)
+![NDVI Histogram](Histogram.png)
 
 ## Tools and Technologies
 
