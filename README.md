@@ -68,7 +68,7 @@ indicating seasonal variation in vegetation conditions.
 
 ### Monthly NDVI Time Series
 
-![NDVI Time Series](NDVI Chart.png)
+(NDVI Chart.png)
 
 ### NDVI Distribution
 
