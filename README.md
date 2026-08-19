@@ -68,7 +68,7 @@ indicating seasonal variation in vegetation conditions.
 
 ### Monthly NDVI Time Series
 
-![Monthly NDVI Time Series](images/ndvi_chart.png)
+![Monthly NDVI Time Series](NDVI Chart.png)
 
 ### NDVI Distribution
 
@@ -99,5 +99,3 @@ Through this project I learned how to:
 - Organize a Google Earth Engine project for a GIS portfolio.
 
 ## Priyanka
-
-GIS & Remote Sensing Learning Portfolio
